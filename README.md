@@ -194,16 +194,29 @@ Strengthening Python, APIs, version control and software design while building a
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ErmeslyBlanc&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="Ermesly's GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErmeslyBlanc&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used public repository languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=ErmeslyBlanc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9A75FF&icon_color=6FA8FF&text_color=CBD5E1&rank_icon=github" height="170" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErmeslyBlanc&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9A75FF&text_color=CBD5E1" height="170" alt="Top public repository languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=ErmeslyBlanc&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=ErmeslyBlanc&theme=tokyonight&hide_border=true&background=0D1117&ring=9A75FF&fire=6FA8FF" alt="GitHub streak" />
 
 </div>
 
-<sub>Statistics are based on visible GitHub activity and are rendered by third-party services; they may not include private work.</sub>
+<sub>Cards are provided by third-party services and can temporarily fail to load. Private repository activity may not be included.</sub>
+
+## 🐍 Animated Contributions
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg"/>
+  <img src="./assets/github-snake.svg" width="100%" alt="Animated GitHub contribution graph"/>
+</picture>
+
+<sub>Automatically regenerated with GitHub Actions using your contribution history.</sub>
+
+</div>
 
 ---
 

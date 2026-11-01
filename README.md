@@ -143,15 +143,24 @@ My professional interests include **Python, Power BI, Databricks, SAP, AI and in
 
 ## 💼 Professional Journey
 
-<sub>My professional journey, with roles and dates based on my published professional experience.</sub>
+<div align="center">
 
-<table>
-<tr><td width="18%" align="center"><b>2018 - 2019</b><br/>🔹</td><td><b>Customer Service Apprentice</b><br/>JL Frios Frigorífico<br/><sub>Mar 2018 - Aug 2019 - Customer service and operational support</sub></td></tr>
-<tr><td align="center"><b>2020 - 2022</b><br/>🔹</td><td><b>Technology Apprentice</b><br/>Bemol Digital<br/><sub>May 2020 - Mar 2022 - Programming and technology foundations</sub></td></tr>
-<tr><td align="center"><b>2023 - 2024</b><br/>🔹</td><td><b>Programming Intern</b><br/>Bemol<br/><sub>Apr 2023 - Apr 2024 - Python, data analysis, automation and business intelligence</sub></td></tr>
-<tr><td align="center"><b>2024 - 2025</b><br/>🔹</td><td><b>Healthcare Technician Intern</b><br/>Bemol<br/><sub>Apr 2024 - Mar 2025 - Occupational health and clinical support</sub></td></tr>
-<tr><td align="center"><b>2025 - Now</b><br/>🟣</td><td><b>Digital Trainee</b><br/>Bemol<br/><sub>Mar 2025 - Present - Digital solutions, automation and data analytics</sub></td></tr>
-</table>
+<img src="./assets/professional-journey.svg" width="100%" alt="Professional timeline of Ermesly Blanc, from customer service in 2018 to Digital Trainee at Bemol since 2025" />
+
+</div>
+
+<details>
+<summary><b>View full experience and exact dates</b></summary>
+
+| Period | Role | Company | Main focus |
+| :-- | :-- | :-- | :-- |
+| Mar 2018 - Aug 2019 | Customer Service Apprentice | JL Frios Frigorífico | Customer service and operations |
+| May 2020 - Mar 2022 | Technology Apprentice | Bemol Digital | Programming and digital technology |
+| Apr 2023 - Apr 2024 | Programming Intern | Bemol | Python, data analysis, automation and BI |
+| Apr 2024 - Mar 2025 | Healthcare Technician Intern | Bemol | Occupational health and clinical support |
+| Mar 2025 - Present | **Digital Trainee** | **Bemol** | **Automation, data analytics and digital solutions** |
+
+</details>
 
 ## 🎓 Education & Learning
 

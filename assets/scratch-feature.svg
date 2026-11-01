@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="280" viewBox="0 0 960 280" role="img" aria-label="Scratch na Escola — Interactive programming education project">
+<defs><linearGradient id="back" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#172B50"/><stop offset="1" stop-color="#2B174C"/></linearGradient><linearGradient id="stroke" x1="0" y1="0" x2="1"><stop stop-color="#4BA3FF"/><stop offset="1" stop-color="#BA84FF"/></linearGradient></defs>
+<rect width="960" height="280" rx="20" fill="url(#back)"/><rect x="1" y="1" width="958" height="278" rx="19" fill="none" stroke="#5874A5" stroke-opacity=".6"/>
+<circle cx="825" cy="72" r="105" fill="#7447C8" opacity=".12"/><circle cx="898" cy="217" r="115" fill="#318DE6" opacity=".1"/>
+<g font-family="Arial,Helvetica,sans-serif">
+<rect x="40" y="37" width="174" height="28" rx="14" fill="#29456B"/><text x="127" y="56" text-anchor="middle" fill="#B7DCFF" font-size="13" font-weight="700">FEATURED PROJECT</text>
+<text x="40" y="110" fill="#FFFFFF" font-size="39" font-weight="700">Scratch na Escola</text>
+<text x="40" y="148" fill="#D4DFFA" font-size="19">Making programming accessible through creativity.</text>
+<text x="40" y="179" fill="#B3C8E9" font-size="16">Practical workshops  •  Games &amp; challenges  •  Digital inclusion</text>
+<rect x="40" y="204" width="170" height="42" rx="10" fill="#2774DC"/><text x="125" y="231" font-size="16" font-weight="700" text-anchor="middle" fill="#FFFFFF">LIVE WEBSITE ↗</text>
+<rect x="220" y="204" width="152" height="42" rx="10" fill="#42316A" stroke="#8E6DD3"/><text x="296" y="231" font-size="16" font-weight="700" text-anchor="middle" fill="#EEE6FF">HTML · CSS · JS</text>
+</g>
+<path d="M740 91 l52 -29 52 29 v60 l-52 29 -52 -29z" fill="none" stroke="url(#stroke)" stroke-width="5"/>
+<path d="M767 111 l-15 12 15 12 M817 111 l15 12 -15 12 M799 99 l-15 49" stroke="#D6E8FF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+</svg>

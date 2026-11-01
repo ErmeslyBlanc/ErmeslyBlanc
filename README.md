@@ -18,11 +18,11 @@
 
 ---
 
-## 🌟 Featured Project — Scratch na Escola
+## 🌟 Featured Project - Scratch na Escola
 
 <div align="center">
 
-<a href="https://projeto-scratch.vercel.app/"><img src="./assets/scratch-feature.svg" alt="Scratch na Escola — Explore the live project" width="100%" /></a>
+<a href="https://projeto-scratch.vercel.app/"><img src="./assets/scratch-feature.svg" alt="Scratch na Escola - Explore the live project" width="100%" /></a>
 
 <br/>
 
@@ -108,23 +108,23 @@ My professional interests include **Python, Power BI, Databricks, SAP, AI and in
 
 | Role | Period | Highlights |
 |:--|:--|:--|
-| **Digital Trainee — Bemol** | Mar 2025 – Present | Python/RPA/n8n automation, data analysis, process improvement and business intelligence |
-| **Healthcare Technician Intern — Bemol** | Apr 2024 – Mar 2025 | Occupational health support, clinical screening and process organization |
-| **Programming Intern — Bemol** | Apr 2023 – Apr 2024 | Python development, data analysis, automation and BI tools |
-| **Technology Apprentice — Bemol Digital** | May 2020 – Mar 2022 | Introduction to technology, programming and digital solutions |
-| **Customer Service Apprentice — JL Frios Frigorífico** | Mar 2018 – Aug 2019 | Customer service and operational support |
+| **Digital Trainee - Bemol** | Mar 2025 - Present | Python/RPA/n8n automation, data analysis, process improvement and business intelligence |
+| **Healthcare Technician Intern - Bemol** | Apr 2024 - Mar 2025 | Occupational health support, clinical screening and process organization |
+| **Programming Intern - Bemol** | Apr 2023 - Apr 2024 | Python development, data analysis, automation and BI tools |
+| **Technology Apprentice - Bemol Digital** | May 2020 - Mar 2022 | Introduction to technology, programming and digital solutions |
+| **Customer Service Apprentice - JL Frios Frigorífico** | Mar 2018 - Aug 2019 | Customer service and operational support |
 
 ## 🎓 Education & Learning
 
 | Program | Institution | Period |
 |:--|:--|:--|
-| **Computer Systems Analysis** (Technology Degree) | UniNorte | Mar 2025 – Dec 2026 (expected) |
-| **Healthcare / Nursing Technician** | Giga Instituição Educacional | Jun 2023 – Dec 2024 |
+| **Computer Systems Analysis** (Technology Degree) | UniNorte | Mar 2025 - Dec 2026 (expected) |
+| **Healthcare / Nursing Technician** | Giga Instituição Educacional | Jun 2023 - Dec 2024 |
 
 **Selected certifications & learning experiences**
 
-- 🇨🇦 **English Language Study — Certificate of Completion**, ILSC Education Group, Montréal (Aug 2026)
-- 🐍 **Python Brasil 2025 — Conference Talks Participation**, Python Brasil (Nov 2025)
+- 🇨🇦 **English Language Study - Certificate of Completion**, ILSC Education Group, Montréal (Aug 2026)
+- 🐍 **Python Brasil 2025 - Conference Talks Participation**, Python Brasil (Nov 2025)
 
 [View more professional credentials on LinkedIn](https://www.linkedin.com/in/ermesly-blanc-640a1a170/)
 

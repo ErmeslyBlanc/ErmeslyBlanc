@@ -89,6 +89,12 @@ My professional interests include **Python, Power BI, Databricks, SAP, AI and in
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,git,github,docker,linux,vscode&theme=dark&perline=10" alt="Technology icons" />
+
+</div>
+
 **Languages & development**
 
 <p>

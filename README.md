@@ -37,6 +37,23 @@
 
 > Visit the [live website](https://projeto-scratch.vercel.app/) to explore the project or check the [GitHub repository](https://github.com/ErmeslyBlanc/projeto_scratch) for its source code.
 
+## 🗂️ Selected Public Projects
+
+These projects are available in my public GitHub repositories.
+
+| Project | Description | Technologies | Links |
+| :-- | :-- | :-- | :-- |
+| **Scratch na Escola** | Educational extension website about introductory Scratch programming, workshops and digital inclusion | HTML, CSS, JavaScript | [Live website](https://projeto-scratch.vercel.app/) - [Source](https://github.com/ErmeslyBlanc/projeto_scratch) |
+| **Java OOP Mini Project** | Classes, encapsulation, inheritance and polymorphism in an academic Java project | Java, OOP | [Source](https://github.com/ErmeslyBlanc/mini-projeto-poo-aulas01-04) |
+| **Concurso Escola** | Web application with pages for Home, Concursos and Sobre | React, Vite, JavaScript | [Source](https://github.com/ErmeslyBlanc/concurso-escola) |
+
+<div align="center">
+
+[![Scratch live website](https://img.shields.io/badge/SCRATCH_LIVE_DEMO-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://projeto-scratch.vercel.app/)
+[![All repositories](https://img.shields.io/badge/EXPLORE_PROJECTS-653CAD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ErmeslyBlanc?tab=repositories)
+
+</div>
+
 ## 👨‍💻 About Me
 
 I'm **Ermesly Blanc**, a **Computer Systems Analysis Student | Healthcare Technician**, and a **Digital Trainee at Bemol** in Manaus, Brazil.

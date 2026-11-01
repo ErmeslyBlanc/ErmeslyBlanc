@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="685" viewBox="0 0 1080 685" role="img" aria-label="Ermesly Blanc professional journey: customer service 2018-2019, technology apprentice 2020-2022, programming intern 2023-2024, healthcare technician intern 2024-2025, digital trainee 2025-present">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111C32"/><stop offset="1" stop-color="#15152B"/></linearGradient>
+<linearGradient id="accent" x1="0" y1="0" x2="1"><stop stop-color="#4B94ED"/><stop offset="1" stop-color="#A479F5"/></linearGradient>
+<linearGradient id="current" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1B3254"/><stop offset="1" stop-color="#302052"/></linearGradient>
+<filter id="shadow" x="-5%" y="-15%" width="110%" height="130%"><feDropShadow dx="0" dy="4" stdDeviation="7" flood-color="#000814" flood-opacity=".28"/></filter>
+</defs>
+<rect width="1080" height="685" rx="24" fill="url(#bg)" />
+<rect x="1" y="1" width="1078" height="683" rx="23" fill="none" stroke="#425175" stroke-opacity=".65"/>
+<circle cx="990" cy="45" r="170" fill="#6C47C6" opacity=".065"/>
+<text x="48" y="54" font-family="Arial,Helvetica,sans-serif" font-size="27" font-weight="700" fill="#EFF4FF">My professional journey</text>
+<text x="49" y="81" font-family="Arial,Helvetica,sans-serif" font-size="14" fill="#A8BAD7">From first experiences to digital innovation</text>
+<path d="M64 146 V592" stroke="#41608B" stroke-width="4" stroke-linecap="round"/>
+<g font-family="Arial,Helvetica,sans-serif">
+<rect x="97" y="110" width="933" height="92" rx="16" fill="#1B2940" stroke="#34445E" stroke-width="1" filter="url(#shadow)"/>
+<circle cx="64" cy="156" r="10" fill="#61A5F4" stroke="#15233C" stroke-width="5"/>
+<text x="126" y="149" font-size="17" font-weight="700" fill="#A8C9FF">2018 - 2019</text>
+<text x="348" y="139" font-size="21" font-weight="700" fill="#FFFFFF">Customer Service Apprentice</text>
+<text x="348" y="162" font-size="15" fill="#9EB7DA">JL Frios Frigorifico</text>
+<text x="348" y="184" font-size="13" fill="#B9C9E1">Customer service and operational support</text>
+<rect x="830" y="125" width="91" height="24" rx="12" fill="#293F61"/><text x="875.5" y="141" text-anchor="middle" font-size="11" font-weight="700" fill="#B5D3FA">Communication</text><rect x="929" y="125" width="87" height="24" rx="12" fill="#293F61"/><text x="972.5" y="141" text-anchor="middle" font-size="11" font-weight="700" fill="#B5D3FA">Operations</text>
+
+</g><g font-family="Arial,Helvetica,sans-serif">
+<rect x="97" y="214" width="933" height="92" rx="16" fill="#1B2940" stroke="#34445E" stroke-width="1" filter="url(#shadow)"/>
+<circle cx="64" cy="260" r="10" fill="#61A5F4" stroke="#15233C" stroke-width="5"/>
+<text x="126" y="253" font-size="17" font-weight="700" fill="#A8C9FF">2020 - 2022</text>
+<text x="348" y="243" font-size="21" font-weight="700" fill="#FFFFFF">Technology Apprentice</text>
+<text x="348" y="266" font-size="15" fill="#9EB7DA">Bemol Digital</text>
+<text x="348" y="288" font-size="13" fill="#B9C9E1">Programming and technology foundations</text>
+<rect x="830" y="229" width="91" height="24" rx="12" fill="#293F61"/><text x="875.5" y="245" text-anchor="middle" font-size="11" font-weight="700" fill="#B5D3FA">Technology</text><rect x="929" y="229" width="87" height="24" rx="12" fill="#293F61"/><text x="972.5" y="245" text-anchor="middle" font-size="11" font-weight="700" fill="#B5D3FA">Programming</text>
+
+</g><g font-family="Arial,Helvetica,sans-serif">
+<rect x="97" y="318" width="933" height="92" rx="16" fill="#1B2940" stroke="#34445E" stroke-width="1" filter="url(#shadow)"/>
+<circle cx="64" cy="364" r="10" fill="#61A5F4" stroke="#15233C" stroke-width="5"/>
+<text x="126" y="357" font-size="17" font-weight="700" fill="#A8C9FF">2023 - 2024</text>
+<text x="348" y="347" font-size="21" font-weight="700" fill="#FFFFFF">Programming Intern</text>
+<text x="348" y="370" font-size="15" fill="#9EB7DA">Bemol</text>
+<text x="348" y="392" font-size="13" fill="#B9C9E1">Python, automation and data analysis</text>
+<rect x="830" y="333" width="91" height="24" rx="12" fill="#293F61"/><text x="875.5" y="349" text-anchor="middle" font-size="11" font-weight="700" fill="#B5D3FA">Python</text><rect x="929" y="333" width="87" height="24" rx="12" fill="#293F61"/><text x="972.5" y="349" text-anchor="middle" font-size="11" font-weight="700" fill="#B5D3FA">Data</text>
+
+</g><g font-family="Arial,Helvetica,sans-serif">
+<rect x="97" y="422" width="933" height="92" rx="16" fill="#1B2940" stroke="#34445E" stroke-width="1" filter="url(#shadow)"/>
+<circle cx="64" cy="468" r="10" fill="#61A5F4" stroke="#15233C" stroke-width="5"/>
+<text x="126" y="461" font-size="17" font-weight="700" fill="#A8C9FF">2024 - 2025</text>
+<text x="348" y="451" font-size="21" font-weight="700" fill="#FFFFFF">Healthcare Technician Intern</text>
+<text x="348" y="474" font-size="15" fill="#9EB7DA">Bemol</text>
+<text x="348" y="496" font-size="13" fill="#B9C9E1">Occupational health and clinical support</text>
+<rect x="830" y="437" width="91" height="24" rx="12" fill="#293F61"/><text x="875.5" y="453" text-anchor="middle" font-size="11" font-weight="700" fill="#B5D3FA">Healthcare</text><rect x="929" y="437" width="87" height="24" rx="12" fill="#293F61"/><text x="972.5" y="453" text-anchor="middle" font-size="11" font-weight="700" fill="#B5D3FA">Support</text>
+
+</g><g font-family="Arial,Helvetica,sans-serif">
+<rect x="97" y="526" width="933" height="92" rx="16" fill="url(#current)" stroke="#9672E8" stroke-width="2" filter="url(#shadow)"/>
+<circle cx="64" cy="572" r="13" fill="#A98BFF" stroke="#15233C" stroke-width="5"/>
+<text x="126" y="565" font-size="17" font-weight="700" fill="#D8CAFF">2025 - Present</text>
+<text x="348" y="555" font-size="21" font-weight="700" fill="#FFFFFF">Digital Trainee</text>
+<text x="348" y="578" font-size="15" fill="#9EB7DA">Bemol</text>
+<text x="348" y="600" font-size="13" fill="#B9C9E1">Automation, data and digital solutions</text>
+<rect x="830" y="541" width="91" height="24" rx="12" fill="#554181"/><text x="875.5" y="557" text-anchor="middle" font-size="11" font-weight="700" fill="#E4D4FF">Automation</text><rect x="929" y="541" width="87" height="24" rx="12" fill="#554181"/><text x="972.5" y="557" text-anchor="middle" font-size="11" font-weight="700" fill="#E4D4FF">Analytics</text>
+<rect x="126" y="578" width="100" height="22" rx="11" fill="#6B46A9"/><text x="176" y="593" text-anchor="middle" font-size="11" font-weight="700" fill="#FFFFFF">CURRENT</text>
+</g>
+<path d="M48 650 H1030" stroke="#394866" stroke-width="1"/>
+<text x="50" y="669" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#8DA6C7">Professional experience - Ermesly Blanc</text>
+<text x="1026" y="669" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#A4B4D0">Keep growing. Keep building.</text>
+</svg>

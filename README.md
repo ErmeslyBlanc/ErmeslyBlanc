@@ -10,7 +10,7 @@
 
 <br/><br/>
 
-**Python Developer** &nbsp;•&nbsp; **Intelligent Automation** &nbsp;•&nbsp; **Data & AI**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=8AAEFF&center=true&vCenter=true&width=800&lines=Python+Developer;Intelligent+Automation;Data+Analysis+%26+Business+Intelligence;AI+%26+Software+Development" alt="Animated specialties" />
 
 *Building solutions that turn repetitive work into smarter processes.*
 

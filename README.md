@@ -18,6 +18,25 @@
 
 ---
 
+## 🌟 Featured Project — Scratch na Escola
+
+<div align="center">
+
+<a href="https://projeto-scratch.vercel.app/"><img src="./assets/scratch-feature.svg" alt="Scratch na Escola — Explore the live project" width="100%" /></a>
+
+<br/>
+
+<a href="https://projeto-scratch.vercel.app/"><img src="https://img.shields.io/badge/🌐_OPEN_LIVE_WEBSITE-2563EB?style=for-the-badge" alt="Open live website" /></a>
+<a href="https://github.com/ErmeslyBlanc/projeto_scratch"><img src="https://img.shields.io/badge/VIEW_SOURCE_CODE-26354E?style=for-the-badge&logo=github&logoColor=white" alt="View source code" /></a>
+
+</div>
+
+**Scratch na Escola** is a web-based educational extension project designed to make introductory programming approachable and creative. Its website presents **hands-on workshops, short games and challenges, project methodology, team information and digital inclusion goals**.
+
+**Tech:** HTML · CSS · JavaScript · Scratch education · Vercel deployment
+
+> Visit the [live website](https://projeto-scratch.vercel.app/) to explore the project or check the [GitHub repository](https://github.com/ErmeslyBlanc/projeto_scratch) for its source code.
+
 ## 👨‍💻 About Me
 
 I'm **Ermesly Blanc**, a **Computer Systems Analysis Student | Healthcare Technician**, and a **Digital Trainee at Bemol** in Manaus, Brazil.

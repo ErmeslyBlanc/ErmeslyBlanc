@@ -53,6 +53,21 @@ These projects are available in my public GitHub repositories.
 
 </div>
 
+## ✅ Project Quality Dashboard
+
+<div align="center">
+
+| Public repository | Automated checks | Workflow |
+| :-- | :-- | :-- |
+| [Scratch na Escola](https://github.com/ErmeslyBlanc/projeto_scratch) | ![Scratch checks](https://img.shields.io/github/actions/workflow/status/ErmeslyBlanc/projeto_scratch/static-checks.yml?branch=main&style=flat-square&label=HTML%20and%20assets) | [View runs](https://github.com/ErmeslyBlanc/projeto_scratch/actions/workflows/static-checks.yml) |
+| [Concurso Escola](https://github.com/ErmeslyBlanc/concurso-escola) | ![React checks](https://img.shields.io/github/actions/workflow/status/ErmeslyBlanc/concurso-escola/react-ci.yml?branch=main&style=flat-square&label=Lint%20and%20build) | [View runs](https://github.com/ErmeslyBlanc/concurso-escola/actions/workflows/react-ci.yml) |
+| [Java OOP Mini Project](https://github.com/ErmeslyBlanc/mini-projeto-poo-aulas01-04) | ![Java tests](https://img.shields.io/github/actions/workflow/status/ErmeslyBlanc/mini-projeto-poo-aulas01-04/java-ci.yml?branch=main&style=flat-square&label=Compile%20and%20tests) | [View runs](https://github.com/ErmeslyBlanc/mini-projeto-poo-aulas01-04/actions/workflows/java-ci.yml) |
+| [JavaScript Object Exercises](https://github.com/ErmeslyBlanc/poo-1) | ![JavaScript checks](https://img.shields.io/github/actions/workflow/status/ErmeslyBlanc/poo-1/javascript-ci.yml?branch=main&style=flat-square&label=Syntax%20and%20execution) | [View runs](https://github.com/ErmeslyBlanc/poo-1/actions/workflows/javascript-ci.yml) |
+
+</div>
+
+<sub>These badges reflect the actual current status of GitHub Actions. Each project has different checks; a passing badge does not certify full test coverage or production readiness.</sub>
+
 ## 👨‍💻 About Me
 
 I'm **Ermesly Blanc**, a **Computer Systems Analysis Student | Healthcare Technician**, and a **Digital Trainee at Bemol** in Manaus, Brazil.
@@ -126,15 +141,17 @@ My professional interests include **Python, Power BI, Databricks, SAP, AI and in
 <img src="https://img.shields.io/badge/Linux-17253F?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux"/>
 </p>
 
-## 💼 Professional Experience
+## 💼 Professional Journey
 
-| Role | Period | Highlights |
-|:--|:--|:--|
-| **Digital Trainee - Bemol** | Mar 2025 - Present | Python/RPA/n8n automation, data analysis, process improvement and business intelligence |
-| **Healthcare Technician Intern - Bemol** | Apr 2024 - Mar 2025 | Occupational health support, clinical screening and process organization |
-| **Programming Intern - Bemol** | Apr 2023 - Apr 2024 | Python development, data analysis, automation and BI tools |
-| **Technology Apprentice - Bemol Digital** | May 2020 - Mar 2022 | Introduction to technology, programming and digital solutions |
-| **Customer Service Apprentice - JL Frios Frigorífico** | Mar 2018 - Aug 2019 | Customer service and operational support |
+<sub>My professional journey, with roles and dates based on my published professional experience.</sub>
+
+<table>
+<tr><td width="18%" align="center"><b>2018 - 2019</b><br/>🔹</td><td><b>Customer Service Apprentice</b><br/>JL Frios Frigorífico<br/><sub>Mar 2018 - Aug 2019 - Customer service and operational support</sub></td></tr>
+<tr><td align="center"><b>2020 - 2022</b><br/>🔹</td><td><b>Technology Apprentice</b><br/>Bemol Digital<br/><sub>May 2020 - Mar 2022 - Programming and technology foundations</sub></td></tr>
+<tr><td align="center"><b>2023 - 2024</b><br/>🔹</td><td><b>Programming Intern</b><br/>Bemol<br/><sub>Apr 2023 - Apr 2024 - Python, data analysis, automation and business intelligence</sub></td></tr>
+<tr><td align="center"><b>2024 - 2025</b><br/>🔹</td><td><b>Healthcare Technician Intern</b><br/>Bemol<br/><sub>Apr 2024 - Mar 2025 - Occupational health and clinical support</sub></td></tr>
+<tr><td align="center"><b>2025 - Now</b><br/>🟣</td><td><b>Digital Trainee</b><br/>Bemol<br/><sub>Mar 2025 - Present - Digital solutions, automation and data analytics</sub></td></tr>
+</table>
 
 ## 🎓 Education & Learning
 
@@ -204,6 +221,16 @@ Strengthening Python, APIs, version control and software design while building a
 
 <sub>Cards are provided by third-party services and can temporarily fail to load. Private repository activity may not be included.</sub>
 
+## 🧊 3D Contribution Calendar
+
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub contribution calendar based on account activity" />
+
+<sub>Generated from my GitHub contributions with a daily automated workflow.</sub>
+
+</div>
+
 ## 🐍 Animated Contributions
 
 <div align="center">
@@ -224,6 +251,22 @@ Strengthening Python, APIs, version control and software design while building a
 ### 💜 Let's Connect
 
 Interested in **Python, automation, data or AI**? Find me on [LinkedIn](https://www.linkedin.com/in/ermesly-blanc-640a1a170/) or explore my [public repositories](https://github.com/ErmeslyBlanc?tab=repositories).
+
+<details>
+<summary><b>💻 Open developer terminal</b></summary>
+
+```text
+ermesly@github:~$ whoami
+Ermesly Blanc - Digital Trainee - Python Developer
+
+ermesly@github:~$ focus
+Python | Intelligent Automation | Data | AI
+
+ermesly@github:~$ mission
+Build practical solutions. Keep learning. Share knowledge.
+```
+
+</details>
 
 **Turning ideas into intelligent solutions through technology, data and automation.**
 

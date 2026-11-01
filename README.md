@@ -6,7 +6,6 @@
 
 <a href="https://www.linkedin.com/in/ermesly-blanc-640a1a170/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/ErmeslyBlanc?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore%20My%20Code-242938?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories"/></a>
-<img src="https://komarev.com/ghpvc/?username=ErmeslyBlanc&label=Profile%20Views&color=7048B8&style=for-the-badge" alt="Profile views" />
 
 <br/><br/>
 
@@ -227,5 +226,9 @@ Strengthening Python, APIs, version control and software design while building a
 Interested in **Python, automation, data or AI**? Find me on [LinkedIn](https://www.linkedin.com/in/ermesly-blanc-640a1a170/) or explore my [public repositories](https://github.com/ErmeslyBlanc?tab=repositories).
 
 **Turning ideas into intelligent solutions through technology, data and automation.**
+
+<sub>Profile visits</sub>
+
+<img src="https://komarev.com/ghpvc/?username=ErmeslyBlanc&label=Profile%20Views&color=7048B8&style=for-the-badge" alt="Profile views" />
 
 </div>
